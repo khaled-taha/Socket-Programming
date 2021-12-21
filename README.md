@@ -1,7 +1,7 @@
 # Socket-Programming
 Example of Socket Programming with java (Client and Serevr)
 
-```
+```java
 import java.io.*;
 import java.net.Socket;
 import java.util.Scanner;
@@ -61,7 +61,7 @@ public class Client {
 }
 ```
 ******************************************************************************************************************
-```
+```java
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
@@ -128,7 +128,7 @@ public class Serever {
 }
 ```
 ****************************************************************************************************
-```
+```java
 public class SocketProgramming {
 
     public static void main(String[] args) {
