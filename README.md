@@ -1,5 +1,5 @@
 # Socket-Programming
-Example of Socket Programming with java (Client and Serevr)
+Example of Socket Programming with java (Client and Serever)
 
 ```java
 import java.io.*;
